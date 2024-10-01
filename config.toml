@@ -1,7 +1,7 @@
 theme = "tabi"
 title = "Thomas's Blog"
 # The URL the site will be built for
-base_url = "https://thomaswei"
+base_url = "https://thomaswei.netlify.app"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
