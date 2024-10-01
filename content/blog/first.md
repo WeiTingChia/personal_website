@@ -1,6 +1,8 @@
 +++
 title = "My first post"
-date = 2019-11-27
+date = 2024-10-01
 +++
 
-This is my first blog post.
+作為網站的第一個文章，不免俗的就先來個"Hello World!"吧！
+
+### Hello World!
