@@ -2,7 +2,6 @@ theme = "tabi"
 title = "Thomas's Blog"
 taxonomies = [{name = "tags", feed = true}]
 
-
 # The URL the site will be built for
 base_url = "https://thomaswei.netlify.app"
 
