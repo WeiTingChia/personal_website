@@ -20,7 +20,7 @@ highlight_theme = "css"
 [extra]
 # Put all your custom variables here
 
-favicon = "favicon.png"
+favicon = "favicon-2.png"
 section_path = "blog/_index.md"
 socials = [
     { name = "email", url = "mailto:thomas8111111@hotmail.com.tw", icon = "email" },
