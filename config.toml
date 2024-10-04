@@ -1,5 +1,8 @@
 theme = "tabi"
 title = "Thomas's Blog"
+taxonomies = [{name = "tags", feed = true}]
+
+
 # The URL the site will be built for
 base_url = "https://thomaswei.netlify.app"
 
@@ -19,3 +22,7 @@ highlight_theme = "css"
 # Put all your custom variables here
 
 section_path = "blog/_index.md"
+socials = [
+    { name = "email", url = "mailto:thomas8111111@hotmail.com.tw", icon = "email" },
+    { name = "instagram", url = "https://instagram.com/weithomas", icon = "instagram" },
+]
