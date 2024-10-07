@@ -1,5 +1,5 @@
 theme = "tabi"
-title = "Thomas's Blog"
+title = "Thomas Wei's Blog"
 taxonomies = [{name = "tags", feed = true}]
 
 # The URL the site will be built for
@@ -20,7 +20,7 @@ highlight_theme = "css"
 [extra]
 # Put all your custom variables here
 
-favicon = "favicon-2.png"
+favicon = "favicon-3.png"
 section_path = "blog/_index.md"
 socials = [
     { name = "email", url = "mailto:thomas8111111@hotmail.com.tw", icon = "email" },
